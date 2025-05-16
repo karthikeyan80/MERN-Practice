@@ -1,0 +1,16 @@
+.flex{
+    display: flex;
+    flex-direction: row;
+}
+.i1{
+    background-color: lightblue;
+    width:50px
+}
+.i2{
+    background-color: lightpink;
+    flex: 1;
+}
+.i3{
+    background-color: lightblue;
+    width: 75px;
+}
