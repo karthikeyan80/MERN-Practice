@@ -1,0 +1,10 @@
+a = document.getElementsByTagName("h4");
+b = document.getElementsByTagName("div");
+c = document.getElementsByClassName("blue");
+d = document.querySelector(".yellow");
+e = document.querySelectorAll(".teal");
+console.log(a);
+console.log(b);
+console.log(c);
+console.log(d);
+console.log(e);
